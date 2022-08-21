@@ -1,0 +1,22 @@
+
+/*"Font Families" are in quotation marks!*/
+.odd {
+    background-color: #FFC0CB;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+#two {
+    text: #0001F3;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #00C100;
+    font-size:24px;
+    font-weight:bold;
+}
