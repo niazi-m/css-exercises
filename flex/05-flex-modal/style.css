@@ -20,6 +20,8 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 10px;
+  flex-direction: row;
 }
 
 .icon {
@@ -51,6 +53,7 @@ body {
 button {
   padding: 8px 16px;
   border-radius: 8px;
+  flex-direction: row;
 }
 
 button.continue {
